@@ -23,7 +23,7 @@
 - HTML
 - CSS
 - JQUERY
-- NODE.JS
+- NODE.JSgit 
 
 ##Mocke UI##
 
